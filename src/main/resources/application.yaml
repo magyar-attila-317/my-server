@@ -1,0 +1,6 @@
+logger:
+  level:
+    hu.progmasters: TRACE
+
+server:
+  port: 8080
